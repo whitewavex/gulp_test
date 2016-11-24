@@ -1,0 +1,17 @@
+{
+  "name": "j8",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alexandr <whitewavex@yandex.ua>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
